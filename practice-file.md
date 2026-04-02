@@ -179,10 +179,11 @@ Share your Git tips here:
 1. **Tip:** Always check `git status` before committing
 2. **Tip:** Use descriptive branch names
 3. **Tip:** Write commit messages in present tense
-4. **Your tip here:** [Add your own tip]
+4. **Tip:** Commit messages should start with a verb (latest actions that you performed)
+5. **Tip:** Always keep your repo clean
 
 ---
 
 *Keep practicing! The more you use Git, the more comfortable you'll become.* 🌟
 
-**Last updated:** [Add date when you modify this file]
+**Last updated:** 02/04/2026
