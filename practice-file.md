@@ -67,6 +67,14 @@ Save your code safely online
 Track and update changes
 Work with others easily
 
+**Basic Commands of Git**
+git init              # start a project
+git clone <url>       # copy repo
+git add .             # add files
+git commit -m "msg"   # save changes
+git push              # upload to GitHub
+git pull              # get updates
+
 <!-- 👆 ADD YOUR CONTENT ABOVE THIS LINE 👆 -->
 
 ---
