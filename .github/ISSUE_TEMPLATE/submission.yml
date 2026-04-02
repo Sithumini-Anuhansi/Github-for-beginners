@@ -18,27 +18,27 @@ body:
     attributes:
       label: Full Name
       description: Your full name
-      placeholder: e.g., John Doe
+      placeholder: Sithumini Anuhansi
     validations:
-      required: true
+      required: true 
 
   - type: input
     id: email
     attributes:
       label: Email
       description: A valid email address (will be used for reviewer follow-up)
-      placeholder: e.g., you@example.com
+      placeholder: anuhansisithumini@gmail.com
     validations:
-      required: true
+      required: true 
 
   - type: input
     id: linkedin-url
     attributes:
       label: LinkedIn Post (optional)
       description: Link to your LinkedIn profile
-      placeholder: https://www.linkedin.com/in/your-handle
+      placeholder: https://www.linkedin.com/in/sithumini-anuhansi-5b32a8334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
     validations:
-      required: false
+      required: true 
 
   - type: input
     id: twitter-url
@@ -55,18 +55,18 @@ body:
     attributes:
       label: University
       description: Your university name
-      placeholder: e.g., University of Ruhuna
+      placeholder: NIBM
     validations:
-      required: true
+      required: true 
 
   - type: input
     id: pr-link
     attributes:
       label: Pull Request Link
       description: Link to your pull request
-      placeholder: https://github.com/nisalgunawardhana/Github-for-beginners/pull/...
+      placeholder: https://github.com/Sithumini-Anuhansi/Github-for-beginners/pulls
     validations:
-      required: true
+      required: true 
 
   - type: checkboxes
     id: checklist
@@ -75,8 +75,8 @@ body:
       description: Please confirm the following
       options:
         - label: I have completed the assessment
-          required: true
+          required: true 
         - label: I have created a pull request to the `submission-reviewer` branch
-          required: true
+          required: true 
         - label: I have filled in all required details in this issue template
-          required: true
+          required: true 
