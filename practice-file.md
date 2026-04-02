@@ -54,9 +54,18 @@ This file is designed for you to practice making changes, commits, and pull requ
 <!-- 👇 ADD YOUR CONTENT BELOW THIS LINE 👇 -->
 
 ### My Contribution
-**Added by:** [Your Name]  
-**Topic:** [Your Topic]  
-**Content:** [Your content here]
+**Added by:** Sithumini Anuhansi  
+**Topic:** Lesson Outcomes  
+**Content:** 
+
+**What is GitHub?**
+GitHub is a website where developers store and manage their code online.
+It uses Git, which helps track changes in your code.
+
+**Uses of GitHub?**
+Save your code safely online
+Track and update changes
+Work with others easily
 
 <!-- 👆 ADD YOUR CONTENT ABOVE THIS LINE 👆 -->
 
