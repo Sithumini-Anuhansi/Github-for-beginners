@@ -16,12 +16,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
+### [Sithumini Anuhansi]
+- **GitHub Username:** Sithumini-Anuhansi
+- **Location:** Kotugoda, Sri Lanka
+- **Background:** Undergraduate in Software Engineering
+- **Learning Goals:** Master Git, GitHub Copilot and GitHub Copilot CLI. 
+- **Fun Fact:** I don't like walking slow!
+- **Date Added:** April 02, 2026
 
 
