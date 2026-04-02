@@ -45,7 +45,7 @@ body:
     attributes:
       label: Twitter/X Post (optional)
       description: Link to your Twitter or X profile
-      placeholder: https://twitter.com/your-handle
+      placeholder: 
     validations:
       required: false
 
