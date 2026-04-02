@@ -75,8 +75,9 @@ body:
       description: Please confirm the following
       options:
         - label: I have completed the assessment
-          required: true 
+          required: true
         - label: I have created a pull request to the `submission-reviewer` branch
-          required: true 
+          required: true
         - label: I have filled in all required details in this issue template
-          required: true 
+          required: true
+          
